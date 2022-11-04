@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I wrote my first lines of HTML sometime in the early 2000s when I created my first website on AOL Hometown. I would get my first taste of CSS soon after, while experimenting with the `background-image` property on my MySpace.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+In other words, I got into front-end for one reason: it's fun.
+
+Today I'm building software at Rantizo, a Drones-as-a-Service company. However, I also love to write, and this website is where the two interests intersect, and where I explore topics in front-end development generally, and React, JavaScript, CSS, and WordPress in particular.
