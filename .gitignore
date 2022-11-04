@@ -1,4 +1,7 @@
 _site
 .sass-cache
 .jekyll-metadata
+*.code-workspace
 Gemfile.lock
+stash/
+drafts/
